@@ -8,5 +8,5 @@ with Sklearn.
 Also, we have an introduciton to the importance of the pre-processing step on the data and on what is the **steming** and the **lemmatization**.
 
 ## Architecture 
-We have 2 files:
+We have 1 file:
 - **NLP01.ipynb**: source code and report on the same notebook
